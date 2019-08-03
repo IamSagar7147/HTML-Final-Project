@@ -1,0 +1,32 @@
+.body {
+    background-color: whitesmoke;
+}
+.head-section {
+    text-align: center;
+    background-color: #2c3e50;
+    padding: 18px;
+    color: aliceblue;
+    word-spacing: 25px;
+    margin-top: 0%;
+}
+#head {
+    color: white;
+}
+#about-head {
+    text-align: center;
+}
+.detail-div {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-div {
+    color: aliceblue;
+    text-align: center;
+    background-color: #030303;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    word-spacing: 0px;
+    margin-top: 100px;
+    margin-bottom: 0%;
+}
