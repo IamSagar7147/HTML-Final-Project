@@ -26,7 +26,7 @@
     margin-right: 8px;
 }
 .gallery-div {
-    display: inline;
+    display: block;
     text-align: center;
     margin-left: 176px; 
 }
